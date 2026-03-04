@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **backend development in Python**
 
-- I completed my thesis. [Áurea](https://aurea-mobile.vercel.app/)
+- ✨️ I completed my thesis. [Áurea](https://aurea-mobile.vercel.app/)
 
-- I created a project for EDUTEC. [Astroview](https://astroview.vercel.app/)
+- 🪐 I created a project for EDUTEC. [Astroview](https://astroview.vercel.app/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danielle-freitas-114748294](https://www.linkedin.com/in/danielle-freitas-114748294)
 
