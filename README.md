@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend development in Python**
 
-- ✨️ I completed my thesis. [Áurea](https://aurea-mobile.vercel.app/)
+- ✨️ I completed my TCC. [Áurea](https://aurea-mobile.vercel.app/)
 
 - 🪐 I created a project for EDUTEC. [Astroview](https://astroview.vercel.app/)
 
