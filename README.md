@@ -45,5 +45,11 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniellefreitas23&theme=radical&layout=repository_graphs" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniellefreitas23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniellefreitas23&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellefreitas23&theme=radical" alt="GitHub Streak Stats" />
 </p>
