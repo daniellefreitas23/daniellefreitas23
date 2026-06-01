@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danielle</h1>
 <h3 align="center">Software Engineering Student | IT Technician Graduate</h3>
 
-- 🌱 I’m currently learning **backend development in Python**<h1 align="center">Hi 👋, I'm Danielle</h1>
-<h3 align="center">Software Engineering Student | IT Technician Graduate</h3>
-
 - 🌱 I’m currently learning **backend development in Python and Java**
 
 - ✨ I completed my TCC. <a href="https://aurea-mobile.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Áurea-Acessar%20Projeto-purple?style=flat-square" alt="Áurea"></a>
