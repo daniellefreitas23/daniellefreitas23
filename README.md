@@ -44,10 +44,11 @@
 
 <br />
 
+<h2 align="center">My Github Stats 💫</h2>
+
 <p align="center">
   <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniellefreitas23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daniellefreitas23&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
