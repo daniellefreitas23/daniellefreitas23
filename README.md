@@ -45,5 +45,5 @@
 <br />
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/daniellefreitas23?template=classic&plugins.followup=yes&plugins.followup.sections=user&theme=radical" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniellefreitas23&theme=radical&layout=repository_graphs" alt="GitHub Stats" />
 </p>
