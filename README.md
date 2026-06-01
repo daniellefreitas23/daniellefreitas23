@@ -45,5 +45,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellefreitas23&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daniellefreitas23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
